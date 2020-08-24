@@ -7,9 +7,8 @@ This guide covers:
   * Java
   * Golang
 * Deploying Microservice
-* Co-rdination microservices
+* Co-ordinating microservices
   * Spring cloud
-  * Service Mesh
 * Command, Events and Queries
 * CQRS
 * Microservice Design patterns
